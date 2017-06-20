@@ -1,0 +1,14 @@
+<html>
+<head>
+MESSAGES
+</head>
+
+<p> <p> ¿Qué estás buscando?  <input type="text" name="s" placeholder="What's new"> <form action=messages.html> <input type="submit" value="Go to messages" /></form> <form$  </p>
+
+
+
+
+
+
+
+</html>
