@@ -1,0 +1,31 @@
+
+doctype html
+<html lang="es">
+  <head>
+    <title> Log in </title>
+    <script> type='text/javascript' </script>
+  </head>
+  <br>
+  <body style="text-align:center;">
+   <h1>Log In</h1>
+   <br>
+   <br>
+   <p>Username</p>
+   <input type="text" name="user" placeholder="Username"></input>
+   <br>
+   <p>Password</p>
+   <input type="password" name="pass" placeholder="Password"></input>
+   <br>
+   <br>
+
+   <div>
+    <form action="/hello" method="post">
+     <button type="submit" name="login"> Log In </button>
+    </form>
+    <form action="/register" method="post">
+     <button type="submit" name="signin"> Sign In </button> 
+    </form>
+   </div>
+  </body>
+</html>
+
