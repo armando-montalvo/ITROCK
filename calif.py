@@ -7,7 +7,7 @@ Created on Mon Jun 26 11:10:46 2017
 
 import numpy as np
 
-print('Alumno    ','Score     ','Message     ')
+print('Alumno    ','Score     ','Message     ','Highest Score      ','Lowest Score     ')
 print("")
 arturo=[90,100,50,70]
 juan=[90,90,100,80]
@@ -28,7 +28,7 @@ for j,i in enumerate(studs):
         t="promedio"
     elif u<70:
         t="reprobado"
-    print("%s    %0.2f        %s" % (h[j],u,t))
+    print("%s    %0.2f        %s           %i           %i" % (h[j],u,t,u.max(),u.min()))
     
 
     

@@ -4,7 +4,7 @@ Created on Mon Jun 26 11:20:07 2017
 
 @author: Mario
 """
-x,y,z,w,t,p='Tesla','Buick','Ferrare','Ford','Lamborghini','Maserati'
+x,y,z,w,t,p='Tesla','Buick','Ferrari','Ford','Lamborghini','Maserati'
 a,e,i,o,u=1,2,3,4,5
 k=[x,y,z,w,t,p]
 m=[a,e,i,o,u]
