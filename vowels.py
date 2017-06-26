@@ -28,7 +28,7 @@ vow_list=list(vowels.keys())
 for z in range(5):
     print('%s              %i' % (vow_list[z], vowels[vow_list[z]]))
 sum1= vowels['a']+vowels['e']+vowels['i']+vowels['o']+vowels['u']
-print('Sum of Aappearances:     %i', sum1)
+print('Sum of Aappearances:     ', sum1)
 print("\n")
 print("\n")
 
@@ -97,6 +97,7 @@ for i in range(len(r)):
 
 print('\n')
 print('Most and less repeated words in text')
+print('-'*50)
 print('Most used word: ',most_u_w)
 print('Times of appearance: ', count1)
 
