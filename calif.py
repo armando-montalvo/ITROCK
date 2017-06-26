@@ -19,8 +19,9 @@ h=['arturo','artemio','juan','rene','pedro']
 studs=[arturo,artemio,juan,rene,pedro]
 
 for j,i in enumerate(studs):
-    u=np.array(i).mean()
-    if u > 95:
+    w=np.array(i)
+    u=w.mean()
+    if u >= 95:
         t="excentado"
     elif u<95 and u>=85:
         t="aprobado"
@@ -28,7 +29,7 @@ for j,i in enumerate(studs):
         t="promedio"
     elif u<70:
         t="reprobado"
-    print("%s    %0.2f        %s           %i           %i" % (h[j],u,t,u.max(),u.min()))
+    print("%s    %0.2f        %s           %i           %i" % (h[j],u,t,w.max(),w.min()))
     
 
     
