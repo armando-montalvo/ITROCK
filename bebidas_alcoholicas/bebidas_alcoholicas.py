@@ -28,7 +28,7 @@ class Bebidas(object):
         print('cerrada')
 
 
-class Refreco(Bebidas):
+class Refresco(Bebidas):
     def __init__(self,sabor):
         self.sabor=sabor
         
