@@ -1,0 +1,16 @@
+<html>
+<head>
+
+</head>
+
+<body>
+
+Text: <input style="height:200px;width:400px" "type="text" name="fname"><br>
+
+<br>
+Looking for: <input type="text" name="lname"><br>
+
+</body>
+
+
+</html>
