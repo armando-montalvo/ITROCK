@@ -1,3 +1,4 @@
 ImmutableMultiDict([('letters', 'aeiou'), ('phrase', 'mario')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36|{'a', 'i', 'o'}
 ImmutableMultiDict([('letters', 'aeiou'), ('phrase', 'maldito')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36|{'a', 'i', 'o'}
 ImmutableMultiDict([('letters', 'aeiou'), ('phrase', 'saquen los tacos')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36|{'a', 'e', 'u', 'o'}
+ImmutableMultiDict([('phrase', 'ghvjb.kj'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36|set()
