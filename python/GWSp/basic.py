@@ -21,6 +21,7 @@ temp.close()
 tmp=tmp.split('\n')
 tmp.remove('')
 
+
 for i in tmp:
     adrs.append(i)
     dirs.append(url+quote(i))
