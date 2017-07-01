@@ -1,0 +1,24 @@
+Atlanta, GA 30384, USA|OK|33.75|-84.39
+1775 S West St, Indianapolis, IN 46225, USA|OK|39.742798|-86.16510199999999
+unit 04 7 f no, Bright Way Tower, 33 Mong Kok Rd, Hong Kong|OK|22.3204469|114.1682844
+22647 Ventura Blvd #527, Woodland Hills, CA 91364, USA|OK|34.1673839|-118.6207819
+9890 Cherry Ave, Fontana, CA 92335, USA|OK|34.0733825|-117.4888509
+909 E Pont Des Mouton Rd, Lafayette, LA 70507, USA|OK|30.27268309999999|-92.00044849999999
+Lauro Aguirre 1012, Residencial Selectas, 87050 José María Morelos y Pavón, Tamps., Mexico|OK|23.7401373|-99.1464287
+1333 Cedarpoint Ct, Amelia, OH 45102, USA|OK|39.0445359|-84.2367036
+Leibnitz 11, Anzures, 11590 Ciudad de México, CDMX, Mexico|OK|19.4258297|-99.1767126
+Calle Honduras, Nueva Concepción, Guatemala|OK|14.1846458|-91.2970832
+1599 Maritime St, Oakland, CA 94607, USA|OK|37.8180708|-122.3065369
+485387 30 Side Rd, Shelburne, ON L0N 1S4, Canada|OK|44.0712014|-80.1877743
+380 New York St, Redlands, CA 92373, USA|OK|34.057167|-117.194047
+909 W Pont Des Mouton Rd, Lafayette, LA 70507, USA|OK|30.2754669|-92.0453273
+8429 Katy Fwy, Houston, TX 77024, USA|OK|29.7833053|-95.49053010000002
+Av Santos Degollado 555_D, Alamitos, 78280 San Luis, S.L.P., Mexico|OK|22.1463574|-100.9860277
+1501 175th St, Homewood, IL 60430, USA|OK|41.5713351|-87.6528649
+Laflin Ave, Hazel Crest, IL 60429, USA|OK|41.575439|-87.6534041
+Av. Paulista, 2073 - Cerqueira César, São Paulo - SP, 01311-940, Brazil|OK|-23.5589019|-46.6601709
+Houston, TX 77020, USA|OK|29.7692001|-95.31547839999999
+18127 Holly Green Dr, Houston, TX 77084, USA|OK|29.8553434|-95.6793083
+Calle Ricardo Flores Magón 9, Hank Gonzalez, 55520 Ecatepec de Morelos, Méx., Mexico|OK|19.5506275|-99.06944969999999
+Av. Morelos 90, San Mateo Cuautepec, 54948 Fuentes del Valle, Méx., Mexico|OK|19.6220455|-99.14777649999999
+Kingstree, SC 29556, USA|OK|33.6676643|-79.83062640000001

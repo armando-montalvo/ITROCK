@@ -7,6 +7,8 @@ Created on Thu Jun 29 15:19:44 2017
 
 import sshtunnel
 import mysql.connector
+
+
 _host = 'irock.enroute.xyz'
 _ssh_port = 22
 _username = 'mbriseno'
@@ -38,7 +40,9 @@ with sshtunnel.SSHTunnelForwarder(
         port=_local_mysql_port)
     
     cursor = conn.cursor()
-    cursor.execute(_SQL,('hithch_hiker','xyz','127.0.0.1','Safari','set()'))
+    cursor.execute(_SQL,('d','d','d','d','d'))    
+    cursor.execute(_SQL,('e','e','e','e','e'))
+    
     conn.commit()
     cursor.close()
     conn.close()
