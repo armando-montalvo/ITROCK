@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+  <h2> {{ the_title}} </h2>
+
+  <p>You submitted the following data: </p>
+  <table>
+    <tr><td>Address:</td>
+        <td>{{ the_address }}</td>
+    </tr>
+
+  </table>
+
+  <p>The status of the search of "{{ the_address }}" returns an status of: "{{the_status}}"</p>
+  <h3> Google Web Services response: "{{the_results}}"</h3>
+                                      
+  <h3>Data has been stored in remote data bases</h3>
+                                      
+
+  <!--<form method='POST' action='/wait'>-->
+  <!--<p><input value = 'Table' type='SUBMIT'></p>-->
+  <!--</form>-->
+                                      
+{% endblock %}

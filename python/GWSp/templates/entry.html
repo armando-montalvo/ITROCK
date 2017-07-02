@@ -1,0 +1,27 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+  
+<h2> {{the_title}} </h2>
+
+  
+<form method='POST' action='/search4'>
+  
+<table>
+   
+ <p>Use this to validate and address:</p>
+   
+ <tr><td>Address: </td><td><input name='address'  type='TEXT' width='60'></td></tr>
+   
+ <p>Data results will be stored in ok_results.txt and zero_results.txt </p>
+  
+</table>
+  
+<p>When you're ready, click this button:</p>
+  
+<p><input value = 'Validate!' type='SUBMIT'></p>
+ 
+ </form>
+
+{% endblock %}
