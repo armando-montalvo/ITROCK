@@ -1,0 +1,33 @@
+from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+from time import sleep
+from selenium.webdriver.support.ui import Select
+from selenium.webdriver.common.action_chains import ActionChains
+import xlrd
+
+book = xlrd.open_workbook('C:\\Users\Mario/Desktop\GIT\python\Libro1.xls')
+driver = webdriver.Firefox()
+driver.maximize_window()
+driver.implicitly_wait(10)
+
+for i in range(3):
+    cel= book.sheet_by_index(0).row(i)[0].value
+
+    # navigate to the application home page
+    driver.get("http://www.liverpool.com.mx")
+
+    # get the search textbox
+    search_field = driver.find_element_by_xpath(".//*[@id='buscador']").send_keys(cel)
+    driver.find_element_by_xpath(".//*[@id='buscador']").send_keys(Keys.ENTER)
+
+    r= driver.find_element_by_xpath(".//*[@id='filterBlock']/div/div/div/div[2]/div[2]/ul/li[1]/a").click()
+    sleep(5)
+    u= driver.find_elements_by_xpath(".//*[@id='controls-top']/div[4]/label/select/option")
+    a=0
+    for i in range(len(u)):
+        if u[i].text == "Ratings":
+            a=i
+    u[a].click()
+    v= driver.find_element_by_xpath(".//*[@id='filterBlock']/div/div/div/div[2]/div[2]/ul/li[2]/a").click()
+
+    sleep(5)
