@@ -1,0 +1,917 @@
+1500050441241	geckodriver	INFO	Listening on 127.0.0.1:53834
+1500050443439	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500050451089	Marionette	INFO	Listening on port 53841
+1500050451638	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500050489498	Marionette	INFO	Ceased listening
+1500050779153	geckodriver	INFO	Listening on 127.0.0.1:54039
+1500050781217	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500050788241	Marionette	INFO	Listening on port 54045
+1500050789084	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500050878379	Marionette	INFO	Ceased listening
+0.0.1:54249
+1500050875790	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500050882703	Marionette	INFO	Listening on port 54255
+1500050883241	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500050946831	Marionette	INFO	Ceased listening
+0.0.1:54425
+1500050938125	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500050945019	Marionette	INFO	Listening on port 54431
+1500050945700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500051228728	Marionette	INFO	Ceased listening
+0.0.1:54710
+1500051212050	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500051218478	Marionette	INFO	Listening on port 54716
+1500051219477	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500051238747	Marionette	INFO	Ceased listening
+1500051241965	geckodriver::marionette	ERROR	Failed to kill browser process
+1500051256944	geckodriver	INFO	Listening on 127.0.0.1:54887
+1500051259029	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500051265416	Marionette	INFO	Listening on port 54893
+1500051266498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500051545291	Marionette	INFO	Ceased listening
+0.0.1:55158
+1500051412087	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500051419490	Marionette	INFO	Listening on port 55164
+1500051420126	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500051547950	Marionette	INFO	Ceased listening
+0.0.1:55342
+1500051539468	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500051546458	Marionette	INFO	Listening on port 55348
+1500051547054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500053375673	Marionette	INFO	Ceased listening
+1500057243218	geckodriver	INFO	Listening on 127.0.0.1:56400
+1500057244836	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500057253177	Marionette	INFO	Listening on port 56406
+1500057253801	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500058099181	Marionette	INFO	Ceased listening
+1500058672058	geckodriver	INFO	Listening on 127.0.0.1:56853
+1500058674042	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500058682484	Marionette	INFO	Listening on port 56859
+1500058683526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&dir=desc&mode=list&order=price&q=samsung+smart+tv, line 5244: TypeError: string is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&dir=desc&mode=list&order=price&q=samsung+smart+tv, line 5244: TypeError: string is undefined
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&dir=desc&mode=list&order=price&q=samsung+smart+tv, line 5244: TypeError: string is undefined
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&dir=desc&mode=list&order=price&q=samsung+smart+tv, line 5244: TypeError: string is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&dir=desc&mode=list&order=price&q=samsung+smart+tv, line 5244: TypeError: string is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=&mode=list&q=Samsung+smart+tv, line 6182: TypeError: string is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500062079530	Marionette	INFO	Ceased listening
+1500062126453	geckodriver	INFO	Listening on 127.0.0.1:57605
+1500062128523	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500062135894	Marionette	INFO	Listening on port 57612
+1500062136416	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500062253893	geckodriver	INFO	Listening on 127.0.0.1:57759
+1500062255945	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500062261876	Marionette	INFO	Listening on port 57765
+1500062262388	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500062880626	Marionette	INFO	Ceased listening
+0.0.1:57814
+1500062356291	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500062362746	Marionette	INFO	Listening on port 57820
+1500062363653	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500062881559	Marionette	INFO	Ceased listening
+0.0.1:58031
+1500062594700	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500062600958	Marionette	INFO	Listening on port 58037
+1500062602055	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500062878773	Marionette	INFO	Ceased listening
+1500062885930	geckodriver	INFO	Listening on 127.0.0.1:58300
+1500062888040	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500062894328	Marionette	INFO	Listening on port 58306
+1500062895541	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500063398328	Marionette	INFO	Ceased listening
+0.0.1:58543
+1500063068025	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500063074934	Marionette	INFO	Listening on port 58549
+1500063075514	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500063398913	Marionette	INFO	Ceased listening
+0.0.1:58778
+1500063331022	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500063337517	Marionette	INFO	Listening on port 58784
+1500063338394	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500063401157	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1500063401849	Marionette	INFO	Ceased listening
+\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500063402996	Marionette	INFO	Listening on port 59015
+1500063403818	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500063434437	Marionette	INFO	Ceased listening
+1500063458096	geckodriver	INFO	Listening on 127.0.0.1:59256
+1500063460165	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500063466977	Marionette	INFO	Listening on port 59262
+1500063467688	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&mode=list&q=Samsung+Smart+TV, line 5244: TypeError: string is undefined
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/index/?cat=+999+&mode=list&q=Samsung+Smart+TV, line 5244: TypeError: string is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500063612365	Marionette	INFO	Ceased listening
+0.0.1:59588
+1500063608856	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500063616160	Marionette	INFO	Listening on port 59594
+1500063616664	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500065562929	Marionette	INFO	Ceased listening
+884
+1500063841330	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500065563737	Marionette	INFO	Ceased listening
+0.0.1:60318
+1500065427785	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500065435120	Marionette	INFO	Listening on port 60325
+1500065435835	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500065564361	Marionette	INFO	Ceased listening
+0.0.1:60601
+1500065535701	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500065542203	Marionette	INFO	Listening on port 60613
+1500065543065	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500065644738	Marionette	INFO	Ceased listening
+0.0.1:60959
+1500065643233	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500065649915	Marionette	INFO	Listening on port 60965
+1500065650788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500066254030	Marionette	INFO	Ceased listening
+0.0.1:61334
+1500065797218	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500065803684	Marionette	INFO	Listening on port 61340
+1500065804584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500065942725	Marionette	INFO	Ceased listening
+0.0.1:61514
+1500065901495	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500065907965	Marionette	INFO	Listening on port 61520
+1500065908922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500065941843	Marionette	INFO	Ceased listening
+1500065951541	geckodriver::marionette	ERROR	Failed to kill browser process
+1500065971927	geckodriver	INFO	Listening on 127.0.0.1:61554
+1500065974008	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500065980379	Marionette	INFO	Listening on port 61560
+1500065981574	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500066197669	Marionette	INFO	Ceased listening
+1500066207986	geckodriver	INFO	Listening on 127.0.0.1:61818
+1500066210046	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500066216684	Marionette	INFO	Listening on port 61824
+1500066217590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500066221821	Marionette	INFO	Ceased listening
+1500066247757	geckodriver	INFO	Listening on 127.0.0.1:61849
+1500066249873	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500066256584	Marionette	INFO	Listening on port 61855
+1500066257223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500066995699	Marionette	INFO	Ceased listening
+0.0.1:62227
+1500066989402	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500066996365	Marionette	INFO	Listening on port 62233
+1500066997185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/?q=Samsung+Smart+TV&cat=+999+, line 3934: ReferenceError: hbspt is not defined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067074752	Marionette	INFO	Ceased listening
+0.0.1:62574
+1500067070640	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067078360	Marionette	INFO	Listening on port 62580
+1500067078944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/catalogsearch/result/?q=Samsung+Smart+TV&cat=+999+, line 3934: ReferenceError: hbspt is not defined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067131665	Marionette	INFO	Ceased listening
+1500067134608	geckodriver	INFO	Listening on 127.0.0.1:62965
+1500067136709	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067143347	Marionette	INFO	Listening on port 62971
+1500067144097	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067199337	Marionette	INFO	Ceased listening
+0.0.1:63302
+1500067199785	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067207218	Marionette	INFO	Listening on port 63308
+1500067207716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067474636	Marionette	INFO	Ceased listening
+0.0.1:63661
+1500067432715	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067439425	Marionette	INFO	Listening on port 63667
+1500067440161	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067476006	Marionette	INFO	Ceased listening
+0.0.1:63821
+1500067469658	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067476425	Marionette	INFO	Listening on port 63827
+1500067477107	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067500091	geckodriver	INFO	Listening on 127.0.0.1:64046
+1500067502235	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067508344	Marionette	INFO	Listening on port 64052
+1500067508991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067823643	Marionette	INFO	Ceased listening
+0.0.1:64331
+1500067775939	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067782009	Marionette	INFO	Listening on port 64337
+1500067782634	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067824722	Marionette	INFO	Ceased listening
+0.0.1:64596
+1500067822737	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067830064	Marionette	INFO	Listening on port 64602
+1500067830523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067864759	Marionette	INFO	Ceased listening
+1500067915988	geckodriver	INFO	Listening on 127.0.0.1:64868
+1500067918102	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067925552	Marionette	INFO	Listening on port 64874
+1500067926271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500067978318	Marionette	INFO	Ceased listening
+0.0.1:65148
+1500067976468	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500067984644	Marionette	INFO	Listening on port 65154
+1500067985393	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500068450914	Marionette	INFO	Ceased listening
+0.0.1:65466
+1500068440089	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500068448336	Marionette	INFO	Listening on port 65472
+1500068448916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500069171811	Marionette	INFO	Ceased listening
+0.0.1:49434
+1500069117086	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500069123974	Marionette	INFO	Listening on port 49440
+1500069124799	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500069172922	Marionette	INFO	Ceased listening
+0.0.1:49751
+1500069170678	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500069178026	Marionette	INFO	Listening on port 49758
+1500069178693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500069568824	Marionette	INFO	Ceased listening
+0.0.1:50062
+1500069459426	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500069466552	Marionette	INFO	Listening on port 50068
+1500069467054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500069569919	Marionette	INFO	Ceased listening
+1500069623665	geckodriver	INFO	Listening on 127.0.0.1:50351
+1500069625771	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500069632513	Marionette	INFO	Listening on port 50357
+1500069633151	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500069931777	Marionette	INFO	Ceased listening
+0.0.1:50649
+1500069734561	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500069740700	Marionette	INFO	Listening on port 50655
+1500069741489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500069932768	Marionette	INFO	Ceased listening
+0.0.1:50949
+1500069932483	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500069939330	Marionette	INFO	Listening on port 50955
+1500069939894	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500070041579	Marionette	INFO	Ceased listening
+0.0.1:51232
+1500069999645	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500070007213	Marionette	INFO	Listening on port 51242
+1500070007783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500070067413	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1500070067418	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1500070068015	Marionette	INFO	Ceased listening
+1500070352860	geckodriver	INFO	Listening on 127.0.0.1:51790
+1500070354980	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500070362154	Marionette	INFO	Listening on port 51797
+1500070362654	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500070419476	Marionette	INFO	Ceased listening
+0.0.1:52094
+1500070419451	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500070425820	Marionette	INFO	Listening on port 52100
+1500070426810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500070858685	Marionette	INFO	Ceased listening
+0.0.1:52481
+1500070858139	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500070865167	Marionette	INFO	Listening on port 52487
+1500070865773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500070984892	Marionette	INFO	Ceased listening
+0.0.1:52798
+1500070985187	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500070993636	Marionette	INFO	Listening on port 52804
+1500070994711	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500071162289	Marionette	INFO	Ceased listening
+0.0.1:53158
+1500071161135	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500071168865	Marionette	INFO	Listening on port 53164
+1500071169701	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500071232266	Marionette	INFO	Ceased listening
+0.0.1:53463
+1500071232641	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500071239417	Marionette	INFO	Listening on port 53469
+1500071240032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500071882599	Marionette	INFO	Ceased listening
+881
+1500071531304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500071883364	Marionette	INFO	Ceased listening
+0.0.1:54189
+1500071633592	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500071641384	Marionette	INFO	Listening on port 54195
+1500071641762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500072054300	Marionette	INFO	Ceased listening
+0.0.1:54548
+1500071882511	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500071889780	Marionette	INFO	Listening on port 54554
+1500071890404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500072055152	Marionette	INFO	Ceased listening
+0.0.1:54858
+1500072055191	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500072061329	Marionette	INFO	Listening on port 54864
+1500072061941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500072726939	Marionette	INFO	Ceased listening
+238
+1500072622762	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500072755284	Marionette	INFO	Ceased listening
+0.0.1:55536
+1500072755333	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500072763611	Marionette	INFO	Listening on port 55542
+1500072764184	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+1500073117862	Marionette	INFO	Ceased listening
+0.0.1:55883
+1500072848160	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500072856308	Marionette	INFO	Listening on port 55889
+1500072856843	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+1500073118618	Marionette	INFO	Ceased listening
+0.0.1:56223
+1500072943258	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500072950553	Marionette	INFO	Listening on port 56229
+1500072951203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+1500073171089	Marionette	INFO	Ceased listening
+0.0.1:56559
+1500073170837	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500073178123	Marionette	INFO	Listening on port 56565
+1500073178563	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500073392786	Marionette	INFO	Ceased listening
+0.0.1:56865
+1500073243357	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500073250431	Marionette	INFO	Listening on port 56871
+1500073250884	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+1500073467469	Marionette	INFO	Ceased listening
+0.0.1:57198
+1500073393264	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500073401295	Marionette	INFO	Listening on port 57204
+1500073401873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500073468347	Marionette	INFO	Ceased listening
+0.0.1:57507
+1500073464599	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500073472153	Marionette	INFO	Listening on port 57513
+1500073472619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500073731560	Marionette	INFO	Ceased listening
+1500274457320	geckodriver	INFO	Listening on 127.0.0.1:50778
+1500274459463	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500274469523	Marionette	INFO	Listening on port 50787
+1500274470001	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1500276521924	Marionette	INFO	Ceased listening
+0.0.1:51235
+1500276521716	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500276529898	Marionette	INFO	Listening on port 51241
+1500276530526	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/enquire.js, line 152: TypeError: this.mql is null
+1500276557102	Marionette	INFO	Ceased listening
+1500276560148	geckodriver	INFO	Listening on 127.0.0.1:51277
+1500276562279	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500276570257	Marionette	INFO	Listening on port 51283
+1500276570684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500276595181	geckodriver	INFO	Listening on 127.0.0.1:51308
+1500276597357	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500276604359	Marionette	INFO	Listening on port 51314
+1500276604913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500276742430	Marionette	INFO	Ceased listening
+0.0.1:51450
+1500276742889	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500276750513	Marionette	INFO	Listening on port 51456
+1500276751170	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500277192454	Marionette	INFO	Ceased listening
+0.0.1:51632
+1500277190369	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500277199316	Marionette	INFO	Listening on port 51638
+1500277200015	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500277332734	Marionette	INFO	Ceased listening
+0.0.1:51851
+1500277332994	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500277340464	Marionette	INFO	Listening on port 51857
+1500277341313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500277423873	Marionette	INFO	Ceased listening
+0.0.1:51988
+1500277421937	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500277430824	Marionette	INFO	Listening on port 51994
+1500277431491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500277509211	Marionette	INFO	Ceased listening
+0.0.1:52126
+1500277507753	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500277515834	Marionette	INFO	Listening on port 52132
+1500277516548	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500277897667	Marionette	INFO	Ceased listening
+0.0.1:52339
+1500277770249	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500277778147	Marionette	INFO	Listening on port 52345
+1500277778788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500277896740	Marionette	INFO	Ceased listening
+1500277900479	geckodriver	INFO	Listening on 127.0.0.1:52577
+1500277902606	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500277910146	Marionette	INFO	Listening on port 52583
+1500277911047	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500278379932	Marionette	INFO	Ceased listening
+0.0.1:52806
+1500278075954	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500278083185	Marionette	INFO	Listening on port 52812
+1500278084007	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500278382064	Marionette	INFO	Ceased listening
+0.0.1:53052
+1500278338194	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500278347398	Marionette	INFO	Listening on port 53058
+1500278348019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500278613840	Marionette	INFO	Ceased listening
+0.0.1:53279
+1500278598111	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500278605783	Marionette	INFO	Listening on port 53285
+1500278606736	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500278618577	geckodriver	INFO	Listening on 127.0.0.1:53321
+1500278620714	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1500278628017	Marionette	INFO	Listening on port 53327
+1500278628613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/js/calendar/calendar.js, line 138: unreachable code after return statement
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 300: SyntaxError: missing ] after element list
+JavaScript error: https://www.heb.com.mx/js/varien/js.js, line 428: TypeError: this.day is undefined
+JavaScript error: https://www.heb.com.mx/checkout/onepage/, line 892: ReferenceError: countryRegions is not defined
+JavaScript error: https://www.heb.com.mx/js/prototype/prototype.js, line 5557: TypeError: registry is undefined
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.heb.com.mx/skin/frontend/heb/default/js/lib/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500278949622	Marionette	INFO	Ceased listening
