@@ -1,0 +1,65 @@
+centOS en redhat, bash
+
+grupos, usuarios, sudo (a fondo), 
+
+tail -F LOG.......: 
+
+metstat
+
+
+visualizar un log 
+
+niveles de logeo, info, warning, full 
+
+utilizar vim as editor
+nano no tiene soporte para expresiones regulares
+
+EXPRESIONES REGULARES
+
+
+
+netstat,,, salida standard pantalla en una terminal linux
+
+imprimir datos a un archivo > file.txt
+
+-rw-rm-r---
+
+
+command histor, ctrl+r reverse search: search commands 
+
+dominar grep y ||||| 
+
+
+desempaquetar tar y zip como empaquetar tar.gz
+
+gzip
+
+man pages
+
+iter, ssh, bash, csh, 
+
+leer servicios nativos de linux
+
+etc/init.d/
+
+demonio es un proceso ligero, escucha un cierto un puerto, 
+este proceso construye hilos para atender peticiones (./iptables start)(firewalld)
+service 'nombre del servicio' start|stop|restart|status|
+
+
+servicios de servidor linux
+servicios instalables (FTP)
+como correr ejecutables  
+
+
+echo $ PATH 
+
+when ll ls -a 
+.carpet means 
+.. carpeta anterior 
+
+
+variables de sistema, como crear y como trabajar con ellas
+
+thumbcat
+instalajr jdk stargz o ziptomcat
